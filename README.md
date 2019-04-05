@@ -7,4 +7,8 @@ PreTrained Weight for Assignment 2 - https://drive.google.com/open?id=1xSNIzVmAJ
 
 Presentation for Assignment 2 - https://prezi.com/view/qOztvvCr7YhhgE0AFhbv/
 
+Claat Report for Assignment 4 - https://codelabs-preview.appspot.com/?file_id=1eh2_ZJXt8TYaclZa66Z7fBsaNUFWfSYtiGEcHL0UQEo#8
+
+
+
 
