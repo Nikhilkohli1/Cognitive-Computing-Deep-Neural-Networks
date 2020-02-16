@@ -1,5 +1,4 @@
 # Cognitive-Computing-Deep-Neural-Networks
-INFO 7374
 
 Youtube Link- https://youtu.be/_HjURYq7kxo 
 
